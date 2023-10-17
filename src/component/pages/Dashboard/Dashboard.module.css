@@ -1,0 +1,67 @@
+.DashboardHeader{
+    display: flex;
+    justify-content: space-between;
+}
+.card {
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 25%;
+    border-radius: 12px;
+  }
+  
+  .card:hover {
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.2);
+
+  }
+  .card1 {
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    border-radius: 12px;
+    margin-top: 20px;
+  }
+  
+  .card1:hover {
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.2);
+
+  }
+  .card2 {
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 98%;
+    border-radius: 12px;
+    margin-top: 20px;
+  }
+  
+  .card1:hover {
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.2);
+
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+
+  .cardContainer {
+    display: flex;
+    justify-content: space-between; /* Adjust this to your preference */
+    gap: 2%;
+  }
+  .SearchSelect{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* In your CSS file or in a style block within your component */
+
+.borderless-table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: none;
+}
+
+.borderless-table th,
+.borderless-table td {
+  border: none;
+  padding: 8px; /* Adjust the padding as needed */
+}
