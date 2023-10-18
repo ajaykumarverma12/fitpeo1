@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fitpeo1/static/css/main.d273eec6.css",
-    "main.js": "/fitpeo1/static/js/main.994b59ad.js",
+    "main.js": "/fitpeo1/static/js/main.55707169.js",
     "static/js/787.8e797e29.chunk.js": "/fitpeo1/static/js/787.8e797e29.chunk.js",
     "static/media/imggg.jpg": "/fitpeo1/static/media/imggg.7965f1f6916ef26462ec.jpg",
     "index.html": "/fitpeo1/index.html",
     "main.d273eec6.css.map": "/fitpeo1/static/css/main.d273eec6.css.map",
-    "main.994b59ad.js.map": "/fitpeo1/static/js/main.994b59ad.js.map",
+    "main.55707169.js.map": "/fitpeo1/static/js/main.55707169.js.map",
     "787.8e797e29.chunk.js.map": "/fitpeo1/static/js/787.8e797e29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d273eec6.css",
-    "static/js/main.994b59ad.js"
+    "static/js/main.55707169.js"
   ]
 }
