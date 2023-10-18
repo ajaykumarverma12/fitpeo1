@@ -9,7 +9,7 @@ import Content from "./component/container/Content";
 const App = () => {
   const [sidebarIsOpen, setSidebarOpen] = useState(true);
   const toggleSidebar = () => setSidebarOpen(!sidebarIsOpen);
-
+console.log("ddd");
   return (
     <Router>
       <div className="App wrapper">
