@@ -12,7 +12,7 @@ const Content = ({ sidebarIsOpen, toggleSidebar }) => (
   >
     {/* <Topbar toggleSidebar={toggleSidebar} /> */}
     <Routes>
-      <Route path="/" element={<Dashboard />} />
+      <Route path="/fitpeo1" element={<Dashboard />} />
       <Route path="/about" element={<div>About</div>} />
       <Route path="/Pages" element={<div>Pages</div>} />
       <Route path="/faq" element={<div>FAQ</div>} />
